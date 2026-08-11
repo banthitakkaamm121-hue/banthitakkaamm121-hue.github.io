@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="เว็บไซต์แนะนำผลงานและทักษะของ Pakjira">
-    <title>ความภาคภูมิใจของ Pakjira</title>
+    <title>ความภาคภูมิใจของ BANTHITA</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -47,7 +47,7 @@
   <!-- ส่วนติดต่อและลิขสิทธิ์ -->
   <footer>
        <p>ติดต่อฉันได้ที่: <a
-href="mailto:banthitakkaamm121@gmail.com">deiyr1269@gmail.com</a></p>
+href="mailto:banthitakkaamm121@gmail.com">banthitakkaamm121@gmail.com</a></p>
        <p>&copy; <span id="year"></span>span> Pakjira. All rights reserved. </p>
   </footer>
 
